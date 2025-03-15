@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+    text-align: center;
+}
+#container{
+    background-color: azure;
+    width: 90%;
+    height: 820px;
+    margin: auto;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+header{
+    background-color: greenyellow;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+nav{
+    background-color: aquamarine;
+    width:95%;
+    height:50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    background-color: cadetblue;
+    width: 25%;
+    height: 710px;
+    margin-left: 1%;
+    margin-right: auto;
+    margin-top: 1rem;
+}
+#nav2{
+    background-color: bisque;
+    width: 90%;
+    height: 390px;
+    margin-top: 1rem;
+}
+aside{
+    background-color: aquamarine;
+    margin-top: 25rem;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#section2{
+    background-color: rgb(255, 255, 255);
+    width: 72%;
+    height: 710;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+#section-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+#header2{
+    background-color: rgb(197, 166, 225);
+    width: 96%;
+    height: 70px;
+    margin-left: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+article{
+    background-color: azure;
+    width: 96%;
+    height: 235px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+#header3{
+    background-color: aqua;
+    width: 96%;
+    height: 45px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+#div1{
+    background-color: antiquewhite;
+    height: 45px;
+    width: 95%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+#aside2{
+    background-color: blanchedalmond;
+    width: 55%;
+    height: 45px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: auto;
+}
+#section-wrapper2{
+    display: flex;
+    justify-content: space-between;
+}
+#P1{
+    background-color: yellow;
+    height: 55px;
+    width: 96%;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+#article2{
+    background-color: antiquewhite;
+    height: 250px;
+}
+#header4{
+    background-color: violet;
+    height: 50px;
+    width: 96%;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 10px;
+}
+#div2{
+    background-color: beige;
+    width: 96%;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+#P2{
+    background-color: white;
+    height: 50px;
+    width: 96%;
+    margin-top: 20px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+footer{
+    background-color: aqua;
+    height: 50px;
+    width: 96%;
+    margin-top: 14px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
